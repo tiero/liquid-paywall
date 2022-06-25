@@ -6,7 +6,7 @@
     "coinselect": "^3.1.11",
     "cpx": "^1.5.0",
     "liquidjs-lib": "https://github.com/vulpemventures/liquidjs-lib.git",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "parcel-bundler": "^1.12.2",
     "postcss-cli": "^6.1.2",
     "push-dir": "^0.4.1",
